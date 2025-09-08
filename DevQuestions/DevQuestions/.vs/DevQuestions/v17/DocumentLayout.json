@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "G:\\Projects\\DevQuestions\\DevQuestions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\reports\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\reports\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\reports\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\reports\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\tags\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\tags\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|g:\\projects\\devquestions\\devquestions\\src\\devquestions.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCC83B4-56A6-42E3-8BBE-D307E9E3639B}|src\\DevQuestions.Domain\\DevQuestions.Domain.csproj|solutionrelative:src\\devquestions.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D32D47AF-4102-4BAA-B2A1-4D9C30BE57CB}|DevQuestions\\DevQuestions.csproj|g:\\projects\\devquestions\\devquestions\\devquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D32D47AF-4102-4BAA-B2A1-4D9C30BE57CB}|DevQuestions\\DevQuestions.csproj|solutionrelative:devquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Status.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Reports\\Status.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Reports\\Status.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Reports\\Status.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Reports\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:50:50.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Reports\\Report.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Reports\\Report.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Reports\\Report.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Reports\\Report.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:36:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Tags\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:32:40.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Comments\\Comment.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Comments\\Comment.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Comments\\Comment.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Comments\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:23:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Questions\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:17:03.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Questions\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:10:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\DevQuestions.Domain\\Class1.cs",
+              "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\src\\DevQuestions.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\DevQuestions.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:02:49.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\Projects\\DevQuestions\\DevQuestions\\DevQuestions\\Program.cs",
               "RelativeDocumentMoniker": "DevQuestions\\Program.cs",
               "ToolTip": "G:\\Projects\\DevQuestions\\DevQuestions\\DevQuestions\\Program.cs",
               "RelativeToolTip": "DevQuestions\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T18:55:02.273Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
